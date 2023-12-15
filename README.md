@@ -14,7 +14,4 @@ Using the [Climate Change: Earth Surface Temperature Data](https://www.kaggle.co
 ## Usage
 Run `jupyter notebook` in your Python 3 environment
 
-## References
-1. [Vectors Linear Algebra](https://github.com/llSourcell/Vectors_Linear_Algebra) by Siraj Raval
-2. [Regularized Linear Regression](https://www.coursera.org/learn/machine-learning/lecture/QrMXd/regularized-linear-regression) by Andrew Ng
-3. [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/) by log0
+
